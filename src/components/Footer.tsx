@@ -90,7 +90,7 @@ export default function Footer() {
           <p className="text-xs text-gray-400 dark:text-gray-500 text-center md:text-left">
             &copy; {new Date().getFullYear()} Nara Kupu Jogja. All rights reserved. <br className="md:hidden" />
             <span className="md:ml-1">
-              Design by <a href="https://nsfall.space" target="_blank" rel="noopener noreferrer" className="text-orange-500 hover:text-orange-600 dark:hover:text-orange-400 transition-colors font-medium">Nsfall.</a>
+              Design by <a href="https://fal.best" target="_blank" rel="noopener noreferrer" className="text-orange-500 hover:text-orange-600 dark:hover:text-orange-400 transition-colors font-medium">Nsfall.</a>
             </span>
           </p>
           <div className="flex gap-6 text-xs text-gray-400 dark:text-gray-500">
